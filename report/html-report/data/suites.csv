@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","script.test_pd_em_qy_article.TestPbArticle.test_mis_article","534",""
+"passed","script.test_pd_em_qy_article.TestPbArticle.test_mp_login","165",""
+"passed","script.test_pd_em_qy_article.TestPbArticle.test_mis_login","243",""
+"passed","script.test_pd_em_qy_article.TestPbArticle.test_qy_al_by_cl","140",""
+"passed","script.test_pd_em_qy_article.TestPbArticle.test_app_login","149",""
+"passed","script.test_pd_em_qy_article.TestPbArticle.test_article[\u6b66\u6c49\u52a0\u6cb9-{}-\u4e2d\u56fd\u52a0\u6cb9-{}-1-201-OK]","160",""
+"passed","script.test_pd_em_qy_article.TestPbArticle.test_ex_article","165",""

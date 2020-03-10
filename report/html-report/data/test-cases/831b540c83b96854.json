@@ -1,0 +1,60 @@
+{
+  "uid" : "831b540c83b96854",
+  "name" : "test_pd_em_qy_article.TestPbArticle.test_mis_login",
+  "fullName" : "script.test_pd_em_qy_article.TestPbArticle.test_mis_login",
+  "historyId" : "f19808be76d0ad48db7fa0bdf8d84ac4",
+  "time" : {
+    "start" : 1583825634334,
+    "stop" : 1583825634577,
+    "duration" : 243
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "windows"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "1312-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "script"
+  }, {
+    "name" : "testClass",
+    "value" : "script"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_pd_em_qy_article.TestPbArticle.test_mis_login"
+  }, {
+    "name" : "package",
+    "value" : "script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "831b540c83b96854.json",
+  "parameterValues" : [ ]
+}

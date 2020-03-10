@@ -1,0 +1,60 @@
+{
+  "uid" : "d9b98f36a661f2f7",
+  "name" : "test_pd_em_qy_article.TestPbArticle.test_article[\\u6b66\\u6c49\\u52a0\\u6cb9-{}-\\u4e2d\\u56fd\\u52a0\\u6cb9-{}-1-201-OK]",
+  "fullName" : "script.test_pd_em_qy_article.TestPbArticle.test_article[\\u6b66\\u6c49\\u52a0\\u6cb9-{}-\\u4e2d\\u56fd\\u52a0\\u6cb9-{}-1-201-OK]",
+  "historyId" : "2fc2a3e03938c0a91b26dbf800fa40ef",
+  "time" : {
+    "start" : 1583825634148,
+    "stop" : 1583825634308,
+    "duration" : 160
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "windows"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "1312-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "script"
+  }, {
+    "name" : "testClass",
+    "value" : "script"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_pd_em_qy_article.TestPbArticle.test_article[\\u6b66\\u6c49\\u52a0\\u6cb9-{}-\\u4e2d\\u56fd\\u52a0\\u6cb9-{}-1-201-OK]"
+  }, {
+    "name" : "package",
+    "value" : "script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9b98f36a661f2f7.json",
+  "parameterValues" : [ ]
+}

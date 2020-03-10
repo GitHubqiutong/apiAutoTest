@@ -1,0 +1,9 @@
+{
+  "test_pb_article_1": {
+    "ar_title": "武汉加油-{}",
+    "ar_content": "中国加油-{}",
+    "ch_id": 1,
+    "status_code": 201,
+    "msg": "OK"
+  }
+}
